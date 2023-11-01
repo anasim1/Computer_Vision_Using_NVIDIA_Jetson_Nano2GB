@@ -6,10 +6,11 @@ I worked for sometime at a postal place where they create shipping labels, and p
 ## Objective: 
 I want to develop a computer vision product that measures/suggests a box size from the available boxes in the store when the employee displays the stuff to be shipped in front of the camera.
 
-# The How:
-NVIDIA's Jetson Nano 2GB
-Docker Container: L4T R32.7.1
-Library: https://github.com/dusty-nv/jetson-inference/
+## The How:
+
+<ul>NVIDIA's Jetson Nano 2GB</ul>
+<ul>Docker Container: L4T R32.7.1</ul>
+<ul>Library: https://github.com/dusty-nv/jetson-inference/</ul>
 
 ## Experience:
 It was a great experience working into Practical AI and being able to create a bot as a PoC for shipping process efficiency. This helped me develop my skillset in object detection inference using NVIDIA's Toolkit.

@@ -4,7 +4,7 @@
 I worked for sometime at a postal place where they create shipping labels, and prepare shipping packages for the customers. They have a big collection of different sizes of boxes in their store. The employees either eye-ball the size of the things to be sent or measure it to get an idea of which box to find and pack the stuff in the box for shipping.
 
 ## Objective: 
-I want to develop a computer vision product that measures/suggests a box size from the available boxes in the store when the employee displays the stuff to be shipped in front of the camera.
+I developed a computer vision product that measures/suggests a box size from the available boxes in the store when the employee displays the stuff to be shipped in front of the camera.
 
 ## The How:
 
